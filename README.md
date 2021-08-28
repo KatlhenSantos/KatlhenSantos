@@ -2,13 +2,13 @@
 
 - 🌱 Estou estudando Power BI e programação web
 - 👯 Gosto de aprender coisas novas 
+ <p>
 
  <div>
   <a href="https://github.com/katlhensantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katlhensantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katlhensantos&layout=compact&langs_count=7&theme=dracula"/>
-    <p>
-  <img align="right" alt="Katl" src="https://giphy.com/gifs/Lowi-gato-lowi-ordenador-hENDkVRxKsctCpuAun">
+   
 </div>
   
   <p>
