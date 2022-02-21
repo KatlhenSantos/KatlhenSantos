@@ -1,6 +1,6 @@
 ### Oi, me chamo Katlhen !!
 
-- 🌱 Estou estudando Power BI e programação web
+- 🌱 Sou QA, estou buscando conhecimentos em automação.
 - 👯 Gosto de aprender coisas novas 
  <p>
 
